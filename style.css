@@ -2,3 +2,16 @@
 .nav-item.dropdown:hover .dropdown-menu {
     display: block;
 }
+
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1;
+}
