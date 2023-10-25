@@ -20,3 +20,15 @@ body {
 .progress-bar-danger {
     background-color: gray;
 }
+.btn.btn-outline-warning:hover {
+     background-color: #ffc107;
+    color: white;
+ }
+.btn.btn-outline-dark:hover {
+     background-color: #343a40;
+    color: white;
+ }
+.btn.btn-outline-info:hover {
+     background-color: #0dcaf0;
+    color: white;
+ }
