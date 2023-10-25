@@ -32,3 +32,10 @@ body {
      background-color: #0dcaf0;
     color: white;
  }
+p.obsah, h2.obsah {
+    margin-left: 20px; /* Adjust this value to move it as much as you need */
+}
+h2.obsah {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
